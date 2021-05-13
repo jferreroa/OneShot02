@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">One Shot 0.0.1</string>
+    <string name="action_settings">Github repository</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_time">First time with film?\nHit that question mark button!</string>
+    <string name="realtime">ONE SHOT</string>
+    <string name="textISO">ISO</string>
+    <string name="ISO">0</string>
+    <string name="textAperture">Aperture</string>
+    <string name="textSpeed">Shutter speed</string>
+    <string name="aperturePortrait">3.5</string>
+    <string name="apertureScene">16</string>
+    <string name="aperturePro">2.2</string>
+    <string name="speed">0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
